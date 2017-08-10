@@ -10,7 +10,7 @@ To get the latest race results: [link](https://www.chicagomarathon.com/participa
 This repository includes:
 - scraping script
 - marathon data from 1996-2014
-- Anaylsis (to be added later)
+- Analysis [link](http://nbviewer.jupyter.org/github/mallaham/bofa-chicago-marathon/blob/master/marathon-data-analysis.ipynb)
 
 Note: The structure of the race results webpage for 2015 and 2016 are different from the previous years. Therefore, the current scraper needs to be adjusted/edited to account for these changes to successfully get the race data.
 
